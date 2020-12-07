@@ -2,3 +2,4 @@ Hello world!
 This is a second line in the file.
 Hello, This is clone 1's addition
 Hi, This is clone 2's addition
+Hello clone 2, I want to make a game!
