@@ -1,2 +1,3 @@
 Hello world!
 This is a second line in the file.
+Hello, This is clone 1's addition
